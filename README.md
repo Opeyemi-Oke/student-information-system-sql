@@ -1,4 +1,4 @@
-Student Management System Database (SQL Project)
+Student Information System (SIS) Database 
 
 Project Overview
 
@@ -47,6 +47,12 @@ CREATE TABLE enrollments (
 
 Tools Used
 - MySQL / SQL Server
-- Excel (for initial data cleaning)
-- Power BI or Pivot Tables (for analysis if applicable)
+
+  Project Value
+
+This project demonstrates:
+	•	SQL proficiency
+	•	Database design skills
+	•	Ability to model real-world systems
+
 
